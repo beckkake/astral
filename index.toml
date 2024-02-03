@@ -10,7 +10,7 @@ hash = "8eb77df81550a28cef99b63c7b803df793d10110527f5ae40b13e9749986dbcc"
 
 [[files]]
 file = "README.md"
-hash = "f9923b85b2c27cef911b9ee60a099fca0031506f03d725a9103a75c19227f4b6"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/DisablePortals.json"
@@ -17569,6 +17569,11 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "b59cda50b7fa539aa9783bb8d87b55ca4e05d0269c9f2e2df69fa2134d0e644f"
+metafile = true
+
+[[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "d3bcafc2d3c3df4c48a5ab8dd521fec07c7be956fd75c14f29b22b6f204ded25"
 metafile = true
 
 [[files]]
