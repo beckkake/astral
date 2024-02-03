@@ -17377,7 +17377,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "90ee67aa66896fd198955f6b58f68d7a2502c872154d54d26a0605bb14c5e6e8"
+hash = "62176b6e62761a14b2d68910146076da234959b719090a5197509ff02b6137ce"
 metafile = true
 
 [[files]]
@@ -17423,6 +17423,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
 hash = "dfb96c1c19d1bbc24ed0d53f6d7bc8b9a8502f3a878e61edd07c34de4106558c"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "d3caf0b1837490d2b0169fa8e0ff485158c70200c23dbdefead7912d47e5fc70"
 metafile = true
 
 [[files]]
@@ -17706,6 +17711,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib-fabric.pw.toml"
 hash = "38ec884dc93cadba686940337e5cc9568e1832aa3a99ea1330f6dfdbf0f7fa81"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "4f32de16a161b074c88f803b6321588ef051fd41f89c08737dc2c6bdea341c73"
 metafile = true
 
 [[files]]
