@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE.md"
-hash = "a7fdaed36e9e99e7de02fd7cc02f7b62ab4fecd8f59340673172ca8fcd835678"
-
-[[files]]
-file = "LICENSE_packwiz.md"
-hash = "8eb77df81550a28cef99b63c7b803df793d10110527f5ae40b13e9749986dbcc"
-
-[[files]]
 file = "README.md"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
@@ -263,14 +255,6 @@ hash = "beadc546b18582a423ae783e3982c483cd666342dbbca0cbdca0bbc864a9796c"
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
 hash = "a74438e93f640b50d8b853cd98b00e95e6721e9e0b672c3c1691f6b8a0d82f6a"
-
-[[files]]
-file = "config/fancymenu/customization/.disabled/MainMenu.txt"
-hash = "e07782be59021cabfe5a09320add9bdb9aee43fdb72982274aba01d14f04b6ff"
-
-[[files]]
-file = "config/fancymenu/customization/.disabled/disclaimermenu.txt"
-hash = "8f6b81ff8c0ccf92fad0a2907b177c803c49b07178f3225ae011df56855d1b03"
 
 [[files]]
 file = "config/fancymenu/customization/greg.txt"
