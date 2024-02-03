@@ -829,6 +829,34 @@ file = "config/yigd.toml"
 hash = "1876fd45256526d1f8971ddd101741ee2a02c34d36ed42324f82e47f55b39c20"
 
 [[files]]
+file = "defaultconfigs/create-server.toml"
+hash = "d08f6d1d70d8d9e87c012ffb3bb9b8e9d0c4c001a2ac58b21f9eacc452ad7f04"
+
+[[files]]
+file = "defaultconfigs/ftbchunks-world.snbt"
+hash = "8bdf892e2f55ed81d62f2b263e2d01ef0bc87492e47beb90dc211b5629c5cd82"
+
+[[files]]
+file = "defaultconfigs/ftbchunks/client-config.snbt"
+hash = "4d6704b0eb70fe0dfaeb791a8682fc05900631125f40daf242f469d920cfd8ae"
+
+[[files]]
+file = "defaultconfigs/ftbchunks/ftbchunks-world.snbt"
+hash = "55f4ab021c377bec192a2d4e470f7fab187353555b2304f82e97e12e2001d412"
+
+[[files]]
+file = "fancymenustuff/btn1.png"
+hash = "3d97d780de5df9acf957d330e7e17bbdf71f8214d27ada90a49b7ff2510d450d"
+
+[[files]]
+file = "fancymenustuff/btn2.png"
+hash = "11dc9ee9fd00f1f6d649ac78896b407a419314e6676178a904b6838e66766da7"
+
+[[files]]
+file = "fancymenustuff/uwu.png"
+hash = "8d7ce46d8038ef37e526605538913133dba45657144c228080d1a8ba1e55436d"
+
+[[files]]
 file = "mods/Hephaestus-1.18.2-3.5.2.155.jar"
 hash = "ba760e74f9dc5023138a25915d4f8c6a8b5ef56cd5aee5255866876a4a1232ec"
 
