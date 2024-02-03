@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "170952937246c0106767b3a1a24e524df80ef2ef095adbb3ddeb273dc5c54da7"
+hash = "12e2a4dc0d2b0b32ab4f24a6b3c170b39bed1e5fd5e87467925def9f028cd3be"
 
 [[files]]
 file = "config/DisablePortals.json"
@@ -1141,7 +1141,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "90ee67aa66896fd198955f6b58f68d7a2502c872154d54d26a0605bb14c5e6e8"
+hash = "62176b6e62761a14b2d68910146076da234959b719090a5197509ff02b6137ce"
 metafile = true
 
 [[files]]
@@ -1187,6 +1187,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
 hash = "dfb96c1c19d1bbc24ed0d53f6d7bc8b9a8502f3a878e61edd07c34de4106558c"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "d3caf0b1837490d2b0169fa8e0ff485158c70200c23dbdefead7912d47e5fc70"
 metafile = true
 
 [[files]]
@@ -1317,6 +1322,11 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "b59cda50b7fa539aa9783bb8d87b55ca4e05d0269c9f2e2df69fa2134d0e644f"
+metafile = true
+
+[[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "d3bcafc2d3c3df4c48a5ab8dd521fec07c7be956fd75c14f29b22b6f204ded25"
 metafile = true
 
 [[files]]
@@ -1465,6 +1475,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib-fabric.pw.toml"
 hash = "38ec884dc93cadba686940337e5cc9568e1832aa3a99ea1330f6dfdbf0f7fa81"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "4f32de16a161b074c88f803b6321588ef051fd41f89c08737dc2c6bdea341c73"
 metafile = true
 
 [[files]]
