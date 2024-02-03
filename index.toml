@@ -17426,11 +17426,6 @@ hash = "dfb96c1c19d1bbc24ed0d53f6d7bc8b9a8502f3a878e61edd07c34de4106558c"
 metafile = true
 
 [[files]]
-file = "mods/forge-config-api-port.pw.toml"
-hash = "d3caf0b1837490d2b0169fa8e0ff485158c70200c23dbdefead7912d47e5fc70"
-metafile = true
-
-[[files]]
 file = "mods/ftb-backups-2.pw.toml"
 hash = "c4097f78304946f76eb1bb8ae793d1e0f273fcda995679ad69390319b9fe9493"
 metafile = true
@@ -17558,6 +17553,11 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "b59cda50b7fa539aa9783bb8d87b55ca4e05d0269c9f2e2df69fa2134d0e644f"
+metafile = true
+
+[[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "d3bcafc2d3c3df4c48a5ab8dd521fec07c7be956fd75c14f29b22b6f204ded25"
 metafile = true
 
 [[files]]
