@@ -8617,12 +8617,16 @@ file = "global_packs/required_data/zLaky Core/data/techreborn/weapon_attributes/
 hash = "ca0345df780d16467b0a1f8d300c35b235f39d0bd4161b3e41c7422fdf2bacd5"
 
 [[files]]
+file = "global_packs/required_data/zLaky Core/data/trinkets/entities/aglet_slot.json"
+hash = "a7fafd63de89d095a6143f77e1e00874714f7e72c642c9f34088c0566f05cfb5"
+
+[[files]]
 file = "global_packs/required_data/zLaky Core/data/trinkets/entities/campanion.json"
-hash = "f3d7aa4f7aa033c55f3ead2d7ce3e75e8e946a85ee0378ed941585ec9aad3ace"
+hash = "f8fb61409c12837f5975250195348767cf93647c8921372681a96ef92b2d1b35"
 
 [[files]]
 file = "global_packs/required_data/zLaky Core/data/trinkets/entities/doodads.json"
-hash = "f9d3b38700939fdf88bb4de7d4e242911bea5b776e16836254bd4b535aca9a86"
+hash = "5a0273beee7aceef2e887123e4906db28e5dbce6436da86fb8ffbf4c3e06c204"
 
 [[files]]
 file = "global_packs/required_data/zLaky Core/data/trinkets/entities/doom.json"
@@ -8631,6 +8635,10 @@ hash = "6ffeb2e68da5046c3358ab54554c6cbc85a9b0a6ef04c8bab63baf9ec4d2b436"
 [[files]]
 file = "global_packs/required_data/zLaky Core/data/trinkets/slots/chest/back.json"
 hash = "32875a510460f0c445c4f1a139d03dcae2d7ced8163ec691af0ca6f63c036858"
+
+[[files]]
+file = "global_packs/required_data/zLaky Core/data/trinkets/tags/items/chest/back.json"
+hash = "a554e2149ac338cab33d3fc5e281144302c8dc8639ae6cffb74de6417cdb53a2"
 
 [[files]]
 file = "global_packs/required_data/zLaky Core/data/trinkets/tags/items/chest/necklace.json"
