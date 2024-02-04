@@ -17263,6 +17263,11 @@ hash = "84573c409fb271c793a8cd444ac8d488e59ef98c0423d1d5705a129788502146"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor.pw.toml"
+hash = "d89f39ca5e29d9d5457c1ab65eb31fba2349bccc03a33c57823dec5823a18904"
+metafile = true
+
+[[files]]
 file = "mods/create-deco-fabric.pw.toml"
 hash = "83bdbc9a86e9ff416a3d7dd1f3cb493e94fa0bc3d931bf27800ba98a845896b6"
 metafile = true
@@ -17815,6 +17820,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets-3.3.1.jar"
 hash = "985920fe4affcd9c1e998eff1a0e63ce38e8ab869f1c14376742125d65c48108"
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "49f5590e6160266691eaca6948b33a3a2763e590ed4bcf90189f13650066c84e"
+metafile = true
 
 [[files]]
 file = "mods/vein-mining.pw.toml"
